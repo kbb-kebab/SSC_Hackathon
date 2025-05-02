@@ -13,3 +13,5 @@ You can tailor the dashboard to display companies with a specific letter grade y
 The idea is to create a widely accessible TPRM tool that can be easily checked and give you a brief background while enjoying your coffee or tea at your convenience without the need to deep dive into complex reports.
 
 The sheet only has a limited amount of functions but can further be improved on if new, specific use cases arise.
+
+The main.js file contains the code found in App Script.
